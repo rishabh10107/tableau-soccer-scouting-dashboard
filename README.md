@@ -49,10 +49,10 @@ The top young players aged 15–22 by goals and assists and by disciplinary reco
 
 ## Results
 
-- **Budget-friendly experience:** filtering for players with 250+ career matches and a market value of €5M or less produced a shortlist of 8 veterans worth about **€22M combined**, less than a tenth of the budget. Cristiano Biraghi stood out with 15 goals and 37 assists at a €3.5M valuation.
-- **Undervalued young defenders:** the defender view, filtered to ages 15–19, flagged prospects whose effectiveness is high relative to their market value, such as German Ignatov.
-- **Where the market is:** among the leagues analysed, Serie A (9,536 transfers) and the Premier League (8,576) were the most active, ahead of Ligue 1 (8,044). Paris Saint-Germain ranked among the top net spenders.
-- **Long-term targets:** Jude Bellingham, Jamal Musiala, Florian Wirtz, Cole Palmer and Xavi Simons led the young-talent view on goals and assists. On discipline, Eduardo Camavinga and Bellingham collected the most cards in that group.
+- **Budget-friendly experience:** filtering for players with 250+ recorded matches and a market value of €5M or less produced a shortlist of 8 veterans worth about **€22M combined**, about a tenth of the budget. Cristiano Biraghi stood out with 15 goals and 37 assists at a €3.5M valuation.
+- **Young defender scouting:** the defender view narrows the pool by age, market value and experience, for example to low-cost defenders aged 15–19, with each player's stats and valuation trend one click away.
+- **Where the market is:** Serie A (9,536 transfers) and the Premier League (8,576) were among the most active leagues, both ahead of Ligue 1 (8,044). Paris Saint-Germain ranked among the top net spenders.
+- **Long-term targets:** Jude Bellingham, Jamal Musiala, Florian Wirtz, Cole Palmer and Xavi Simons were among the top young talents on goals and assists. On discipline, Eduardo Camavinga and Bellingham were among the most carded in that group.
 
 ## Data preparation
 
@@ -72,3 +72,4 @@ The raw files were cleaned in Tableau Prep (`data_prep_workflow.tfl`) and filter
 
 - `1_player_overview.png` to `5_future_talent.png`: screenshots of the five dashboards
 - `data_prep_workflow.tfl`: the Tableau Prep cleaning workflow
+- `presentation.pdf`: slide deck walking through the dashboards and findings
