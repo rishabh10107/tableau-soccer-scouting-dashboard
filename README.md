@@ -25,27 +25,27 @@ A new club has no scouting history and a fixed budget. Instead of relying on rep
 ### 1. Market overview
 Top goal scorers, most valuable players, highest transfer fees and the squad-wide position mix.
 
-![Market overview](images/1_player_overview.png)
+![Market overview](1_player_overview.png)
 
 ### 2. Attacker and midfielder evaluation
 Goals + Assists plotted against market value, valuation trends over time, and a shortlist table that updates with the filters.
 
-![Attacker and midfielder evaluation](images/2_attacker_midfielder.png)
+![Attacker and midfielder evaluation](2_attacker_midfielder.png)
 
 ### 3. Defender evaluation
 A Defenders Metric plotted against market value to find effective defenders who cost less than their output suggests.
 
-![Defender evaluation](images/3_defenders.png)
+![Defender evaluation](3_defenders.png)
 
 ### 4. Transfer trends
 Net spending by club, transfer volume by league and transfer activity by club, to show where the market is most active.
 
-![Transfer trends](images/4_transfer_trends.png)
+![Transfer trends](4_transfer_trends.png)
 
 ### 5. Future transfer planning
 The top young players aged 15–22 by goals and assists and by disciplinary record, with their valuation trends.
 
-![Future transfer planning](images/5_future_talent.png)
+![Future transfer planning](5_future_talent.png)
 
 ## Results
 
@@ -70,5 +70,5 @@ The raw files were cleaned in Tableau Prep (`data_prep_workflow.tfl`) and filter
 
 ## Files
 
-- `images/`: screenshots of the five dashboards
+- `1_player_overview.png` to `5_future_talent.png`: screenshots of the five dashboards
 - `data_prep_workflow.tfl`: the Tableau Prep cleaning workflow
