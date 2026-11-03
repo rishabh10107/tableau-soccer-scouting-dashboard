@@ -56,7 +56,7 @@ The top young players aged 15–22 by goals and assists and by disciplinary reco
 
 ## Data preparation
 
-The raw files were cleaned in Tableau Prep (`data_prep_workflow.tfl`) and filtered further in Tableau:
+The raw files were cleaned in Tableau Prep (`scouting_data_prep.tfl`) and filtered further in Tableau:
 
 - Removed columns not needed for recruitment analysis: `coach_name`, `url`, `total_market_value` and `filename`
 - Removed transfers with no recorded fee
@@ -71,5 +71,5 @@ The raw files were cleaned in Tableau Prep (`data_prep_workflow.tfl`) and filter
 ## Files
 
 - `1_player_overview.png` to `5_future_talent.png`: screenshots of the five dashboards
-- `data_prep_workflow.tfl`: the Tableau Prep cleaning workflow
+- `scouting_data_prep.tfl`: the Tableau Prep cleaning workflow
 - `presentation.pdf`: slide deck walking through the dashboards and findings
